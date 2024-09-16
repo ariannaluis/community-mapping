@@ -1,0 +1,23 @@
+# Node.js (Frontend)
+node_modules/
+npm-debug.log*
+yarn-error.log
+.env
+.DS_Store
+
+# Python (Backend)
+venv/
+__pycache__/
+*.pyc
+.Python
+env/
+.env
+
+# macOS
+.DS_Store
+
+# PostgreSQL
+*.pgsql
+
+# Logs
+*.log
